@@ -4,9 +4,9 @@ Pytorch implementation for "A Multi-Interaction Graph Attention Network for Bund
 ### Environment
 
 - OS: Ubuntu 18.04 or higher version
-- python == 3.8.11 or above
-- supported(tested) CUDA versions: 12.4
-- Pytorch == 1.9.0 or above
+- python == 3.10.14 or above
+- supported(tested) CUDA versions: 11.8
+- Pytorch == 2.1.1 or above
 
 ### Run the code
 To train MGBR on dataset Youshu with GPU 1, simply run:

@@ -1,0 +1,1 @@
+hash, embedding_size, embed_L2_norm, act, mess_dropout, node_dropout, num_layers, best-Recall@20, best-NDCG@20, best-Recall@40, best-NDCG@40, best-Recall@80, best-NDCG@80, ave-Recall@20, ave-NDCG@20, ave-Recall@40, ave-NDCG@40, ave-Recall@80, ave-NDCG@80
