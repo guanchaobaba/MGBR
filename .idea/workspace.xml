@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f7dcd93a-a915-43b9-94b1-c0a62fc0c049" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="f7dcd93a-a915-43b9-94b1-c0a62fc0c049" name="更改" comment="final commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,11 +62,24 @@
       <option name="presentableId" value="Default" />
       <updated>1748329337081</updated>
       <workItem from="1748329338222" duration="675000" />
-      <workItem from="1748330075034" duration="1446000" />
+      <workItem from="1748330075034" duration="2445000" />
     </task>
+    <task id="LOCAL-00001" summary="final commit">
+      <option name="closed" value="true" />
+      <created>1748331775737</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1748331775737</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="final commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="final commit" />
   </component>
 </project>
